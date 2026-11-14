@@ -1,0 +1,10 @@
+{
+  "appId": "com.sergios.dibs",
+  "appName": "Dibs",
+  "webDir": "www",
+  "backgroundColor": "#F4F5FA",
+  "android": {
+    "allowMixedContent": false,
+    "adjustMarginsForEdgeToEdge": "auto"
+  }
+}
